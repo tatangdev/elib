@@ -1,0 +1,22 @@
+E-LIB Aplikasi
+
+Anggota Kelompok :
+1. 4311701008 || Dewi Nurpermata Sari
+2. 4311701010 || Tatang Romadhona
+3. 4311701023 || Elsi Adella
+
+MJ 4-A REGULER
+
+Login Aplikasi :
+1. Akun Dewi
+	Username : 008
+	Password : dewi123
+2. Akun Tatang
+	Username : 010
+	Password : tatang123
+3. Akun Elsi
+	Username : 023
+	Password : elsi123
+4. Akun Dosen (Pak Nashrullah)
+	Username : 000
+	Password : nash123
